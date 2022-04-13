@@ -24,3 +24,5 @@ We achieved fairly high accuracies with our models. It's a bit difficult to unde
 
 ## Lessons Learned
 Image classification is **HARD**. It's very easy to see the limitations of some models, while also recognizing the advantages of others. Getting to visualize the weights of our neural networks was also very difficult (and honestly, quite confusing). It can be extremely difficult to understand what neural networks are doing, and more importantly, *why* they are doing them.
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/handwritten-digit-classifier/blob/main/Handwritten%20Digits%20Classifier.ipynb).
